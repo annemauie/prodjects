@@ -11,7 +11,7 @@ const sectwoDiv = (title2, image1, image2, image3, para1, para2, para3, button1,
                                 <ul class="column2">
                                     <li><img src="./${image2}" class="img1"></li>
                                     <li><p class="p2">${para2}</p></li>
-                                    <li><button class="btn1"><a href = "https://annemauie.github.io/ws101/build/index.html">${button2}</a></button></li>
+                                    <li><button class="btn1"><a href = "https://annemauie.github.io/new/">${button2}</a></button></li>
                                 </ul>
                                 <ul class="column3">
                                     <li><img src="./${image3}" class="img1"></li>
