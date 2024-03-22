@@ -16,7 +16,7 @@ const sectwoDiv = (title2, image1, image2, image3, para1, para2, para3, button1,
                                 <ul class="column3">
                                     <li><img src="./${image3}" class="img1"></li>
                                     <li><p class="p2">${para3}</p></li>
-                                    <li><button class="btn1"><a href = "https://annemauie.github.io/new/">${button3}</a></button></li>
+                                    <li><button class="btn1"><a href = "https://annemauie.github.io/queensprod/">${button3}</a></button></li>
                                 </ul>
                             </div>
                         `

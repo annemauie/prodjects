@@ -3,25 +3,25 @@ import { rightDiv } from "./image.js"
 import { leftDiv } from "./info.js"
 
 const dataOne = {
-    title:      "LOREM",
-    para:       "“A girl gamer describes a female who regularly engages in the playing of video games, role-playing games, or other games (colloquially referred to as gaming). This can be from the most casual interest to the most serious professional gaming.”",
+    title:      "ANN COMPILELATION",
+    para:       "A Project Dog is the dog that presents you with significant behavioural problems. Maybe the dog came to you with issues, maybe you created the issues, or maybe the dog developed them over time. Regardless of how it happened, now you have a Project Dog.”",
     button:     "Contact me",
     image:      "sl.png"
 }
 
 const dataTwo = {
-    title2:     "GIRL GAMER",
+    title2:     "ACTIVITIES",
 
     image1:     "dog.jpg",
     para1:      "A Project Dog is the dog that presents you with significant behavioural problems. Maybe the dog came to you with issues, maybe you created the issues, or maybe the dog developed them over time. Regardless of how it happened, now you have a Project Dog.",
     button1:    "View",
 
-    image2:     "(5).webp",
-    para2:      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, minus maiores! Incidunt, voluptate velit libero saepe maxime perspiciatis enim et illo possimus deserunt hic adipisci dolor at repudiandae! Ad, cumque.",
+    image2:     "pro2.png",
+    para2:      "A project is a set of tasks that must be completed within a defined timeline to accomplish a specific set of goals. These tasks are completed by a group of people known as the project team, which is led by a project manager, who oversees the planning, scheduling, tracking and successful completion of projects.",
     button2:    "View",
 
-    image3:     "(6).jpg",
-    para3:      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum, minus maiores! Incidunt, voluptate velit libero saepe maxime perspiciatis enim et illo possimus deserunt hic adipisci dolor at repudiandae! Ad, cumque.",
+    image3:     "pro1.png",
+    para3:      "A project is a set of tasks that must be completed within a defined timeline to accomplish a specific set of goals. These tasks are completed by a group of people known as the project team, which is led by a project manager, who oversees the planning, scheduling, tracking and successful completion of projects.",
     button3:    "View"
 }
 
