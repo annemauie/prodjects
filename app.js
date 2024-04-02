@@ -3,7 +3,7 @@ import { rightDiv } from "./image.js"
 import { leftDiv } from "./info.js"
 
 const dataOne = {
-    title:      "ANN COMPILELATION",
+    title:      "ANN COMPILATION",
     para:       "A Project Dog is the dog that presents you with significant behavioural problems. Maybe the dog came to you with issues, maybe you created the issues, or maybe the dog developed them over time. Regardless of how it happened, now you have a Project Dog.”",
     button:     "Contact me",
     image:      "sl.png"
